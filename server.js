@@ -13,7 +13,7 @@ const dbOptions = {
     host: 'localhost',
     port: 3306,
     user: 'root',
-    password: 'ju4n4n4con4',
+    password: '',
     database: 'usuarios'
 }
 
